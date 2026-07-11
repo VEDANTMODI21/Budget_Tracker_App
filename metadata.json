@@ -1,0 +1,6 @@
+{
+  "name": "Budget Tracker",
+  "description": "A comprehensive, modern personal budget tracker with local Room storage, analytics charts, and loan/debt reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
